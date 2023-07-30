@@ -1,2 +1,2 @@
 # RAML_SiameseNeuralNetworks
-Effect of the Loss Function in Siamese Neural Networks
+This work analyzes the impact of loss functions on the performance of Siamese Neural Networks while comparing the Contrastive Loss, the Hinge Loss, the Binary Cross Entropy Loss, the Dice Loss and the Binary Cross Entropy Dice Loss.
